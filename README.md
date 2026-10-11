@@ -1,5 +1,5 @@
 # GradXen-client-releases
-Release repo for GradXen client - the student app for computer-based tests.
+Downloads for GradXen client - the student app for computer-based tests.
 
 1. Get the latest installer from **Releases** on the right. Installed copies update themselves. 
 2. After your download, run this on your Windows PC and install the GradXen client.
