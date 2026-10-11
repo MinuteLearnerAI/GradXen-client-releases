@@ -12,3 +12,5 @@ Happy testing!
 Warm Regards,
 
 The Gradxen Team
+
+© 2026 Abhijit Thapa. All rights reserved.
